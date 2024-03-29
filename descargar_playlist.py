@@ -76,6 +76,3 @@ if __name__ == "__main__":
 
     # Descargar la lista de reproducción en múltiples hilos
     descargar_lista_reproduccion(url_lista_reproduccion, carpeta_destino, mp3)
-# Output:
-
-
